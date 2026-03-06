@@ -128,52 +128,6 @@ motto: "Clean code, scalable systems, optimized performance."
 
 ---
 
-<h2 align="center">🏢 Professional Journey</h2>
-
-<table align="center" width="90%">
-  <tr>
-    <td>
-      <h3>🟢 Senior Software Engineer — Tuli → Al Fahim <sub>(2022 – Present)</sub></h3>
-      <blockquote>Architecting enterprise-grade ERP platforms for UAE real estate operations</blockquote>
-      <ul>
-        <li>🏗️ <b>Tuli ERP Generator</b> — Modular code generator automating CRUD, APIs, and front-end bindings</li>
-        <li>🏢 <b>Real Estate ERP</b> — Multi-tenant platform with dynamic reporting and permission layers</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🔵 Senior Software Engineer — Exceleron Group <sub>(2019 – 2024)</sub></h3>
-      <blockquote>Led cross-platform systems focused on security, monitoring, and automation</blockquote>
-      <ul>
-        <li>🔐 <b>Privileged Access Management (PAM)</b> — CLI/HTTP Proxy, RDP automation, AD integration, Chromium-based SSO</li>
-        <li>📊 <b>Preventive Maintenance System</b> — Large-scale data ingestion pipeline with visual dashboards</li>
-        <li>📬 <b>Unified Notification System</b> — Centralized email/SMS service with templated commands</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🟡 Lead .NET Developer — Lightning Tech <sub>(2018 – 2019)</sub></h3>
-      <blockquote>Full-stack development for international clients — search engines, booking systems, PM tools</blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>⚪ Full Stack Developer — IT Genesis <sub>(2017 – 2018)</sub></h3>
-      <blockquote>API integrations (SOAP/REST), payment gateways, legacy platform modernization</blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>⚪ .NET Developer — OTIF Solutions <sub>(2016 – 2017)</sub></h3>
-      <blockquote>Desktop apps, game launchers, networking components in .NET Framework</blockquote>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center" width="90%">
