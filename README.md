@@ -128,7 +128,28 @@ motto: "Clean code, scalable systems, optimized performance."
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## Selected public repositories
+
+Practical software for infrastructure, developer tooling and application operations.
+
+| Project | Description | Technology |
+| --- | --- | --- |
+| [App Spaces for aaPanel](https://github.com/mr-aybee/aapanel-app-spaces) | Organize systemd services and Docker workloads into application namespaces. | Python, Linux, Docker |
+| [Hangfire.Dashboard](https://github.com/mr-aybee/Hangfire.Dashboard) | Dashboard UI and REST API for background job management. | C#, ASP.NET Core |
+| [HttpProxy](https://github.com/mr-aybee/HttpProxy) | Configurable HTTP proxy with interactive and service hosting modes. | C#, .NET |
+| [GitHub Commands](https://github.com/mr-aybee/github-commands) | Repository reporting and package retention utilities. | PowerShell |
+| [NetworkTracer](https://github.com/mr-aybee/NetworkTracer) | Desktop network diagnostics and traceroute analysis. | C#, Windows Forms |
+| [FileWalker](https://github.com/mr-aybee/FileWalker) | Windows filesystem search and file operations. | C#, PowerShell |
+
+### In development
+
+[Rust network utilities](https://github.com/mr-aybee/rust-netutils) · [Rust system utilities](https://github.com/mr-aybee/rust-sysutils) · [Rust database utilities](https://github.com/mr-aybee/rust-dbutils) · [Cronlite](https://github.com/mr-aybee/cronlite)
+
+These repositories are reserved for upcoming implementations, not released products.
+
+---
+
+<h2 align="center">Engineering Experience</h2>
 
 <table align="center" width="90%">
   <tr>
